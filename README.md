@@ -1,4 +1,4 @@
-##Microservice-practice-repo
+## Microservice-practice-repo
 
 A code repo that contains various microservices and implements event based architecture using NATS.
 <br>
